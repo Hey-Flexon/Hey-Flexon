@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
-<h1 align="center">Hey, myself Soudipta Mondal</h1>
+<h1 align="center">Hey, myself SOUDIPTA MONDAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
